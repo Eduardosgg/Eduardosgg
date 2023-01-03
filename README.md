@@ -16,6 +16,6 @@
   
   </div>
   
-  ![Snake animation](https://github.com/Eduardosgg/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Eduardosgg/Eduardosgg/blob/output/github-contribution-grid-snake.svg)
   
 </div>
