@@ -1,5 +1,5 @@
 ## Oiii eu sou Carlos Eduardo, Estudante De Analise e Desenvolvimento, Estacio!
-
+#
 <div align="center">
   <a href="https://https://github.com/Eduardosgg">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardosgg&show_icons=true&theme=tokyonight"/>
